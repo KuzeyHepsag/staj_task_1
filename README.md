@@ -1,2 +1,2 @@
-# staj_task_1
-kuzey123123
+#internship_task_1
+tried smthngs in gitbash
